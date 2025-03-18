@@ -69,7 +69,7 @@ export function ProjectsSection() {
       title: "ytmp3/4",
       description: "A simple youtube to mp3/mp4 converter",
       tags: ["React"],
-      link: "ytmp3-iota.vercel.app",
+      link: "https://ytmp3-iota.vercel.app/",
       details: "A simple youtube to mp3/mp4 converter built with React. Features a clean and intuitive user interface.",
       images: ["/ytmp.PNG"]
     },
