@@ -27,7 +27,7 @@ export function ProjectsSection() {
     },
     {
       title: "Portfolio",
-      description: "A portfolio website built with Next.js",
+      description: "A portfolio website built with Next.js ",
       tags: ["Next.js", "Tailwind CSS"],
       link: "#",
       details: "A modern portfolio website built with Next.js and Tailwind CSS. Features a responsive design and smooth animations.",
@@ -43,35 +43,35 @@ export function ProjectsSection() {
     },
     {
       title: "Web Summarizer",
-      description: "A web app that summarizes articles",
+      description: "A web app that summarizes articles and blog posts.",
       tags: ["React, Typescript"],
       link: "https://github.com/thatboisuss/websummarizer",
-      details: "A web app that summarizes articles and blog posts using advanced natural language processing techniques.",
+      details: "A web app that summarizes articles and blog posts using advanced natural language processing techniques. Built with React and Typescript. ",
       images: ["/placeholder.svg", "/placeholder.svg"]
     },
     {
-      title: "-",
-      description: "-",
-      tags: ["-"],
-      link: "#",
-      details: "-",
+      title: "Flappy Bird",
+      description: "A clone of the popular Flappy Bird game",
+      tags: ["Python"],
+      link: "https://github.com/thatboisuss/flappybird",
+      details: "A simple clone of the popular Flappy Bird game built with Python and Pygame. Features a simple yet addictive gameplay.",
       images: ["/placeholder.svg"]
     },
     {
-      title: "-",
-      description: "-",
-      tags: ["-"],
-      link: "#",
-      details: "-",
+      title: "TO do list",
+      description: "A simple to do list app built with python",
+      tags: ["Python"],
+      link: "https://github.com/thatboisuss/todolist",
+      details: "A simple to do list app built with Python and Tkinter. Features a clean and intuitive user interface.",
       images: ["/placeholder.svg"]
     },
     {
-      title: "-",
-      description: "-",
-      tags: ["React", "Node.js", "MQTT", "MongoDB"],
-      link: "#",
-      details: "-",
-      images: ["/placeholder.svg"]
+      title: "ytmp3/4",
+      description: "A simple youtube to mp3/mp4 converter",
+      tags: ["React"],
+      link: "ytmp3-iota.vercel.app",
+      details: "A simple youtube to mp3/mp4 converter built with React. Features a clean and intuitive user interface.",
+      images: ["/ytmp.PNG"]
     },
     {
       title: "-",
