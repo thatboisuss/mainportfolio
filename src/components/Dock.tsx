@@ -31,7 +31,6 @@ export const Dock = ({ onNavigate }: DockProps) => {
     { name: "Experience", icon: Briefcase, id: "experience" },
     { name: "Projects", icon: Code, id: "projects" },
     { name: "Achievements", icon: Award, id: "achievements" },
-    { name: "Skills", icon: HandHeart, id: "skills" },
     { name: "Contact", icon: Send, id: "contact" },
   ];
 
