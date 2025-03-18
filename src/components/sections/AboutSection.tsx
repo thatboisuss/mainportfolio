@@ -5,15 +5,15 @@ export function AboutSection() {
   const cards = [
     {
       title: "Who I Am",
-      content: "A passionate developer who loves creating beautiful and functional applications that make a difference."
+      content: "A passionate developer with a keen eye for detail and a love for creating beautiful and functional applications. I'm always looking for new challenges and opportunities to learn."
     },
     {
       title: "My Journey",
-      content: "Started coding at a young age, now specializing in web and mobile development with a focus on user experience."
+      content: "Started coding at a young age, I've always been fascinated by technology and its potential to change the world. I've worked on a variety of projects, from mobile apps to web applications, and I'm always looking to expand my skills and knowledge."
     },
     {
       title: "My Mission",
-      content: "To build innovative solutions that help businesses grow and users succeed."
+      content: "To create innovative and impactful solutions that make a difference in people's lives. I believe that technology has the power to change the world for the better, and I'm committed to using my skills to make a positive impact."
     }
   ];
 

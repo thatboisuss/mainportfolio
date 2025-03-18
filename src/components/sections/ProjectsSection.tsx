@@ -18,75 +18,75 @@ export function ProjectsSection() {
   
   const projects: Project[] = [
     {
-      title: "Project One",
-      description: "A modern web application built with React and TypeScript",
-      tags: ["React", "TypeScript", "Tailwind"],
-      link: "#",
-      details: "This project showcases modern web development practices including responsive design, accessibility features, and performant animations. Built with React and TypeScript, it demonstrates clean code architecture and best practices.",
+      title: "Weather app",
+      description: "A simple yet effective weather app",
+      tags: ["Python"],
+      link: "https://github.com/thatboisuss/pythonweather",
+      details: "A simple weather app that provides real-time weather updates and forecasts for any location worldwide.",
       images: ["/placeholder.svg", "/placeholder.svg"]
     },
     {
-      title: "Project Two",
-      description: "Mobile app development using React Native",
-      tags: ["React Native", "Redux", "Node.js"],
+      title: "Portfolio",
+      description: "A portfolio website built with Next.js",
+      tags: ["Next.js", "Tailwind CSS"],
       link: "#",
-      details: "A cross-platform mobile application that delivers seamless user experience across iOS and Android. Features include offline support, push notifications, and real-time updates.",
+      details: "A modern portfolio website built with Next.js and Tailwind CSS. Features a responsive design and smooth animations.",
       images: ["/placeholder.svg"]
     },
     {
-      title: "Project Three",
-      description: "Full-stack application with real-time features",
-      tags: ["Next.js", "Supabase", "PostgreSQL"],
+      title: "Budget Tracker",
+      description: "A mobile app made with React Native",
+      tags: ["React Native", "Expo", "Firebase"],
       link: "#",
-      details: "A comprehensive full-stack solution featuring real-time updates, authentication, and database management. Built with modern technologies for optimal performance and scalability.",
+      details: "A mobile app for tracking expenses and managing budgets. Features real-time synchronization and cloud storage.",
       images: ["/placeholder.svg"]
     },
     {
-      title: "AI-Powered Analytics Dashboard",
-      description: "Advanced analytics platform with machine learning capabilities",
-      tags: ["Python", "TensorFlow", "React", "D3.js"],
-      link: "#",
-      details: "An intelligent dashboard that processes and visualizes complex data patterns using machine learning algorithms. Features interactive charts and predictive analytics.",
+      title: "Web Summarizer",
+      description: "A web app that summarizes articles",
+      tags: ["React, Typescript"],
+      link: "https://github.com/thatboisuss/websummarizer",
+      details: "A web app that summarizes articles and blog posts using advanced natural language processing techniques.",
       images: ["/placeholder.svg", "/placeholder.svg"]
     },
     {
-      title: "E-commerce Platform",
-      description: "Modern e-commerce solution with advanced features",
-      tags: ["React", "Node.js", "Stripe", "MongoDB"],
+      title: "-",
+      description: "-",
+      tags: ["-"],
       link: "#",
-      details: "A full-featured e-commerce platform with secure payment processing, inventory management, and real-time order tracking.",
+      details: "-",
       images: ["/placeholder.svg"]
     },
     {
-      title: "Social Media Manager",
-      description: "Comprehensive social media management tool",
-      tags: ["Vue.js", "Firebase", "Node.js"],
+      title: "-",
+      description: "-",
+      tags: ["-"],
       link: "#",
-      details: "A powerful tool for managing multiple social media accounts, scheduling posts, and analyzing engagement metrics.",
+      details: "-",
       images: ["/placeholder.svg"]
     },
     {
-      title: "IoT Home Automation",
-      description: "Smart home automation system with IoT integration",
+      title: "-",
+      description: "-",
       tags: ["React", "Node.js", "MQTT", "MongoDB"],
       link: "#",
-      details: "An innovative home automation solution that connects and controls various IoT devices through a unified interface.",
+      details: "-",
       images: ["/placeholder.svg"]
     },
     {
-      title: "Blockchain Explorer",
-      description: "Cryptocurrency and blockchain visualization tool",
+      title: "-",
+      description: "-",
       tags: ["React", "Web3.js", "Node.js"],
       link: "#",
-      details: "A comprehensive blockchain explorer for tracking transactions, analyzing smart contracts, and visualizing network statistics.",
+      details: "-",
       images: ["/placeholder.svg"]
     },
     {
-      title: "Virtual Event Platform",
-      description: "Interactive platform for hosting virtual events",
-      tags: ["React", "WebRTC", "Socket.io"],
+      title: "-",
+      description: "-",
+      tags: ["-"],
       link: "#",
-      details: "A feature-rich platform for hosting virtual conferences, webinars, and interactive online events with real-time communication.",
+      details: "-",
       images: ["/placeholder.svg"]
     }
   ];
