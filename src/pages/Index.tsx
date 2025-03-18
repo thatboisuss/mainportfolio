@@ -3,7 +3,6 @@ import { AnimatedText } from "@/components/AnimatedText";
 import { motion, AnimatePresence } from "framer-motion";
 import { AboutSection } from "@/components/sections/AboutSection";
 import { ProjectsSection } from "@/components/sections/ProjectsSection";
-import { SkillsSection } from "@/components/sections/SkillsSection";
 import { ContactSection } from "@/components/sections/ContactSection";
 import { AchievementsSection } from "@/components/sections/AchievementsSection";
 import { ExperienceSection } from "@/components/sections/ExperienceSection";
@@ -193,7 +192,7 @@ const Index = () => {
       <ExperienceSection />
       <ProjectsSection />
       <AchievementsSection />
-      <SkillsSection />
+      
       <ContactSection />
 
       {/* Background gradient */}
