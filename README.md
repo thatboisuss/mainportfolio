@@ -44,17 +44,9 @@ Forms: EmailJS or backend API
 
 📌 Installation & Setup
 
-Clone the repository:
-
-Navigate into the directory:
-
-Install dependencies:
-
-Start the development server:
-
 🚀 Deployment
 
-The site is deployed on Vercel/Netlify. To deploy your own version:
+The site is deployed on Vercel/Netlify. 
 
 📬 Contact
 
