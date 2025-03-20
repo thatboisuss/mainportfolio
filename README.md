@@ -60,11 +60,8 @@ The site is deployed on Vercel/Netlify. To deploy your own version:
 
 For any questions or feedback, feel free to reach out:
 
-Email: your-email@example.com
+Email: aif_rizqi_nafizan@students.edu.sg
 
-Twitter: @yourhandle
-
-LinkedIn: Your Profile
 
 ⭐ Contributing
 
